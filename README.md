@@ -1,6 +1,6 @@
-<p align="center"><img src="https://i.ibb.co/3F6V9JQ/MHDDoS.png" width="400px" height="150px" alt="𝙆𝙧𝙞𝙯𝙯𝙕𝙈𝙤𝙙𝙯 🇵🇪 𝙊𝙁𝘾"></p>
+<p align="center"><img src="https://i.ibb.co/3F6V9JQ/MHDDoS.png" width="400px" height="150px" alt="Cuongle"></p>
 
-<h1 align="center">KrizzZModz 🇵🇪 OFC  Attack Script With 56 Methods</h1>
+<h1 align="center">Cuongle  Attack Script With 56 Methods</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 
